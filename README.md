@@ -1,4 +1,4 @@
-# 🚀 MeteorInsight – AI-Powered SaaS B2B Dashboard  
+# ☄️ MeteorInsight – AI-Powered SaaS B2B Dashboard  
 
 A full-featured **SaaS B2B Analytics Dashboard** built with **Angular 18+, Tailwind, RxJS, and PrimeNG**, integrating **OpenAI API** 
 to generate real-time business insights through natural language.  
