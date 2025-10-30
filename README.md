@@ -115,7 +115,7 @@ Frontend Developer specialized in Angular, RxJS, and SaaS product architecture.
 Fluent English (IELTS 7.0) • Canadian ECA Bachelor’s Degree
 Focused on building scalable, responsive, and AI-driven web applications.
 
-📫 LinkedIn
+📫 LinkedIn (https://www.linkedin.com/in/thiago-carvalho-gusmao)
 
 📧 thiagocarvalhocan@gmail.com
 
