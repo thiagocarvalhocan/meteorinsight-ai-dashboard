@@ -3,7 +3,7 @@
 A full-featured **SaaS B2B Analytics Dashboard** built with **Angular 18+, Tailwind, RxJS, and PrimeNG**, integrating **OpenAI API** 
 to generate real-time business insights through natural language.  
 
-InsightIQ helps teams visualize key performance metrics, explore data interactively, and receive AI-driven recommendations — all within a responsive,
+MeteorInsight helps teams visualize key performance metrics, explore data interactively, and receive AI-driven recommendations — all within a responsive,
 scalable, and production-grade architecture.
 
 ---
@@ -53,8 +53,8 @@ src/app/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/insightiq-ai-dashboard.git
-cd insightiq-ai-dashboard
+git clone https://github.com/YOUR_USERNAME/MeteorInsight-ai-dashboard.git
+cd MeteorInsight-ai-dashboard
 
 2️⃣ Install dependencies
 ```bash
@@ -68,9 +68,11 @@ export const environment = {
 };
 
 4️⃣ Run locally
+```bash
 ng serve
 
 5️⃣ Build for production
+```bash
 ng build --configuration production
 💬 Example AI Prompts
 
@@ -90,7 +92,7 @@ Add here Figma mockups, UI previews or deployed app screenshots.
 
 🌐 Live Demo (if deployed)
 
-👉 https://insightiq.vercel.app
+👉 https://MeteorInsight.vercel.app
 
 (placeholder — replace with your real link)
 
